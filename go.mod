@@ -1,3 +1,3 @@
 module github.com/jehiah/generic_tlds
 
-go 1.22
+go 1.17
