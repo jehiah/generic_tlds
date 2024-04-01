@@ -21,4 +21,4 @@ jobs:
     - name: check-for-updates
       env:
         GH_TOKEN: ${{ secrets.GH_TOKEN }}
-      run: sync.sh
+      run: ./sync.sh
