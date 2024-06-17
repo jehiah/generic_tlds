@@ -806,7 +806,6 @@ var GenericTLDs = map[string]bool{
 	"nab":                      true,
 	"nagoya":                   true,
 	"name":                     true,
-	"natura":                   true,
 	"navy":                     true,
 	"nba":                      true,
 	"nc":                       true,
