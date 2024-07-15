@@ -1042,7 +1042,6 @@ var GenericTLDs = map[string]bool{
 	"sh":                       true,
 	"shangrila":                true,
 	"sharp":                    true,
-	"shaw":                     true,
 	"shell":                    true,
 	"shia":                     true,
 	"shiksha":                  true,
