@@ -301,7 +301,6 @@ var GenericTLDs = map[string]bool{
 	"cymru":                    true,
 	"cyou":                     true,
 	"cz":                       true,
-	"dabur":                    true,
 	"dad":                      true,
 	"dance":                    true,
 	"data":                     true,
