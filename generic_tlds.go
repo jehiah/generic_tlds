@@ -122,7 +122,6 @@ var GenericTLDs = map[string]bool{
 	"beats":                    true,
 	"beauty":                   true,
 	"beer":                     true,
-	"bentley":                  true,
 	"berlin":                   true,
 	"best":                     true,
 	"bestbuy":                  true,
