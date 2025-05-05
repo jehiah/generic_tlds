@@ -661,7 +661,6 @@ var GenericTLDs = map[string]bool{
 	"lacaixa":                  true,
 	"lamborghini":              true,
 	"lamer":                    true,
-	"lancaster":                true,
 	"land":                     true,
 	"landrover":                true,
 	"lanxess":                  true,
