@@ -916,7 +916,6 @@ var GenericTLDs = map[string]bool{
 	"porn":                     true,
 	"post":                     true,
 	"pr":                       true,
-	"pramerica":                true,
 	"praxi":                    true,
 	"press":                    true,
 	"prime":                    true,
